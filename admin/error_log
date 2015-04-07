@@ -1,0 +1,917 @@
+[07-Dec-2014 21:37:21 Europe/Berlin] PHP Notice:  Undefined variable: lang in /home/carthage/public_html/bvb/admin/office.php on line 16
+[07-Dec-2014 21:37:21 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_CONT - assumed 'TXT_CONT' in /home/carthage/public_html/bvb/admin/office.php on line 18
+[07-Dec-2014 21:37:21 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_ALL - assumed 'TXT_ALL' in /home/carthage/public_html/bvb/admin/office.php on line 20
+[07-Dec-2014 21:37:21 Europe/Berlin] PHP Notice:  Undefined variable: link in /home/carthage/public_html/bvb/admin/office.php on line 23
+[07-Dec-2014 21:37:21 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/carthage/public_html/bvb/admin/office.php on line 23
+[07-Dec-2014 21:37:21 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/carthage/public_html/bvb/admin/office.php on line 24
+[07-Dec-2014 21:37:21 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_COUNT - assumed 'TXT_COUNT' in /home/carthage/public_html/bvb/admin/office.php on line 38
+[07-Dec-2014 21:37:21 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_FS - assumed 'TXT_FS' in /home/carthage/public_html/bvb/admin/office.php on line 47
+[07-Dec-2014 21:37:21 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_CITY - assumed 'TXT_CITY' in /home/carthage/public_html/bvb/admin/office.php on line 57
+[07-Dec-2014 21:37:21 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_PT - assumed 'TXT_PT' in /home/carthage/public_html/bvb/admin/office.php on line 67
+[07-Dec-2014 21:37:21 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_ALL - assumed 'TXT_ALL' in /home/carthage/public_html/bvb/admin/office.php on line 69
+[07-Dec-2014 21:37:21 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_OPERATOR - assumed 'TXT_OPERATOR' in /home/carthage/public_html/bvb/admin/office.php on line 75
+[07-Dec-2014 21:37:21 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_TI - assumed 'TXT_TI' in /home/carthage/public_html/bvb/admin/office.php on line 90
+[07-Dec-2014 21:37:21 Europe/Berlin] PHP Warning:  include(include/footer.inc.php): failed to open stream: No such file or directory in /home/carthage/public_html/bvb/admin/office.php on line 221
+[07-Dec-2014 21:37:21 Europe/Berlin] PHP Warning:  include(include/footer.inc.php): failed to open stream: No such file or directory in /home/carthage/public_html/bvb/admin/office.php on line 221
+[07-Dec-2014 21:37:21 Europe/Berlin] PHP Warning:  include(): Failed opening 'include/footer.inc.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/carthage/public_html/bvb/admin/office.php on line 221
+[07-Dec-2014 21:39:56 Europe/Berlin] PHP Warning:  include(lang/decide.php): failed to open stream: No such file or directory in /home/carthage/public_html/bvb/include/header.inc.php on line 8
+[07-Dec-2014 21:39:56 Europe/Berlin] PHP Warning:  include(lang/decide.php): failed to open stream: No such file or directory in /home/carthage/public_html/bvb/include/header.inc.php on line 8
+[07-Dec-2014 21:39:56 Europe/Berlin] PHP Warning:  include(): Failed opening 'lang/decide.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/carthage/public_html/bvb/include/header.inc.php on line 8
+[07-Dec-2014 21:39:56 Europe/Berlin] PHP Warning:  include(connexion.php): failed to open stream: No such file or directory in /home/carthage/public_html/bvb/include/header.inc.php on line 9
+[07-Dec-2014 21:39:56 Europe/Berlin] PHP Warning:  include(connexion.php): failed to open stream: No such file or directory in /home/carthage/public_html/bvb/include/header.inc.php on line 9
+[07-Dec-2014 21:39:56 Europe/Berlin] PHP Warning:  include(): Failed opening 'connexion.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/carthage/public_html/bvb/include/header.inc.php on line 9
+[07-Dec-2014 21:39:56 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_FOUNDED - assumed 'TXT_FOUNDED' in /home/carthage/public_html/bvb/include/header.inc.php on line 72
+[07-Dec-2014 21:39:56 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_OFFICE - assumed 'TXT_OFFICE' in /home/carthage/public_html/bvb/include/header.inc.php on line 85
+[07-Dec-2014 21:39:56 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_SHOP - assumed 'TXT_SHOP' in /home/carthage/public_html/bvb/include/header.inc.php on line 86
+[07-Dec-2014 21:39:56 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_CONTACT - assumed 'TXT_CONTACT' in /home/carthage/public_html/bvb/include/header.inc.php on line 87
+[07-Dec-2014 21:39:56 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_DETAIL - assumed 'TXT_DETAIL' in /home/carthage/public_html/bvb/admin/core.php on line 15
+[07-Dec-2014 21:39:56 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_CONT - assumed 'TXT_CONT' in /home/carthage/public_html/bvb/admin/core.php on line 45
+[07-Dec-2014 21:39:56 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_ALL - assumed 'TXT_ALL' in /home/carthage/public_html/bvb/admin/core.php on line 47
+[07-Dec-2014 21:39:56 Europe/Berlin] PHP Notice:  Undefined variable: link in /home/carthage/public_html/bvb/admin/core.php on line 50
+[07-Dec-2014 21:39:56 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/carthage/public_html/bvb/admin/core.php on line 50
+[07-Dec-2014 21:39:56 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/carthage/public_html/bvb/admin/core.php on line 51
+[07-Dec-2014 21:39:56 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_COUNT - assumed 'TXT_COUNT' in /home/carthage/public_html/bvb/admin/core.php on line 65
+[07-Dec-2014 21:39:56 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_FS - assumed 'TXT_FS' in /home/carthage/public_html/bvb/admin/core.php on line 74
+[07-Dec-2014 21:39:56 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_CITY - assumed 'TXT_CITY' in /home/carthage/public_html/bvb/admin/core.php on line 84
+[07-Dec-2014 21:39:56 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_PT - assumed 'TXT_PT' in /home/carthage/public_html/bvb/admin/core.php on line 94
+[07-Dec-2014 21:39:56 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_ALL - assumed 'TXT_ALL' in /home/carthage/public_html/bvb/admin/core.php on line 96
+[07-Dec-2014 21:39:56 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_OFFICEB - assumed 'TXT_OFFICEB' in /home/carthage/public_html/bvb/admin/core.php on line 97
+[07-Dec-2014 21:39:56 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_SHOP - assumed 'TXT_SHOP' in /home/carthage/public_html/bvb/admin/core.php on line 98
+[07-Dec-2014 21:39:56 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_MULTI - assumed 'TXT_MULTI' in /home/carthage/public_html/bvb/admin/core.php on line 100
+[07-Dec-2014 21:39:56 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_PORTOFF - assumed 'TXT_PORTOFF' in /home/carthage/public_html/bvb/admin/core.php on line 101
+[07-Dec-2014 21:39:56 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_PORTLIV - assumed 'TXT_PORTLIV' in /home/carthage/public_html/bvb/admin/core.php on line 102
+[07-Dec-2014 21:39:56 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_OFFPARC - assumed 'TXT_OFFPARC' in /home/carthage/public_html/bvb/admin/core.php on line 103
+[07-Dec-2014 21:39:56 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_LIVQUAR - assumed 'TXT_LIVQUAR' in /home/carthage/public_html/bvb/admin/core.php on line 104
+[07-Dec-2014 21:39:56 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_TI - assumed 'TXT_TI' in /home/carthage/public_html/bvb/admin/core.php on line 116
+[07-Dec-2014 21:39:56 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_CONTACT - assumed 'TXT_CONTACT' in /home/carthage/public_html/bvb/include/footer.inc.php on line 8
+[07-Dec-2014 21:39:56 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_ABOUT - assumed 'TXT_ABOUT' in /home/carthage/public_html/bvb/include/footer.inc.php on line 24
+[07-Dec-2014 21:41:51 Europe/Berlin] PHP Warning:  include(lang/de-lang.php): failed to open stream: No such file or directory in /home/carthage/public_html/bvb/lang/decide.php on line 2
+[07-Dec-2014 21:41:51 Europe/Berlin] PHP Warning:  include(lang/de-lang.php): failed to open stream: No such file or directory in /home/carthage/public_html/bvb/lang/decide.php on line 2
+[07-Dec-2014 21:41:51 Europe/Berlin] PHP Warning:  include(): Failed opening 'lang/de-lang.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/carthage/public_html/bvb/lang/decide.php on line 2
+[07-Dec-2014 21:41:51 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_CONT - assumed 'TXT_CONT' in /home/carthage/public_html/bvb/admin/core.php on line 27
+[07-Dec-2014 21:41:51 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_ALL - assumed 'TXT_ALL' in /home/carthage/public_html/bvb/admin/core.php on line 29
+[07-Dec-2014 21:41:51 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_COUNT - assumed 'TXT_COUNT' in /home/carthage/public_html/bvb/admin/core.php on line 47
+[07-Dec-2014 21:41:51 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_FS - assumed 'TXT_FS' in /home/carthage/public_html/bvb/admin/core.php on line 56
+[07-Dec-2014 21:41:51 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_CITY - assumed 'TXT_CITY' in /home/carthage/public_html/bvb/admin/core.php on line 66
+[07-Dec-2014 21:41:51 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_PT - assumed 'TXT_PT' in /home/carthage/public_html/bvb/admin/core.php on line 76
+[07-Dec-2014 21:41:51 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_ALL - assumed 'TXT_ALL' in /home/carthage/public_html/bvb/admin/core.php on line 78
+[07-Dec-2014 21:41:51 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_OFFICEB - assumed 'TXT_OFFICEB' in /home/carthage/public_html/bvb/admin/core.php on line 79
+[07-Dec-2014 21:41:51 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_SHOP - assumed 'TXT_SHOP' in /home/carthage/public_html/bvb/admin/core.php on line 80
+[07-Dec-2014 21:41:51 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_MULTI - assumed 'TXT_MULTI' in /home/carthage/public_html/bvb/admin/core.php on line 82
+[07-Dec-2014 21:41:51 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_PORTOFF - assumed 'TXT_PORTOFF' in /home/carthage/public_html/bvb/admin/core.php on line 83
+[07-Dec-2014 21:41:51 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_PORTLIV - assumed 'TXT_PORTLIV' in /home/carthage/public_html/bvb/admin/core.php on line 84
+[07-Dec-2014 21:41:51 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_OFFPARC - assumed 'TXT_OFFPARC' in /home/carthage/public_html/bvb/admin/core.php on line 85
+[07-Dec-2014 21:41:51 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_LIVQUAR - assumed 'TXT_LIVQUAR' in /home/carthage/public_html/bvb/admin/core.php on line 86
+[07-Dec-2014 21:41:51 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_TI - assumed 'TXT_TI' in /home/carthage/public_html/bvb/admin/core.php on line 98
+[07-Dec-2014 21:41:51 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_CONTACT - assumed 'TXT_CONTACT' in /home/carthage/public_html/bvb/include/footer.inc.php on line 8
+[07-Dec-2014 21:41:51 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_ABOUT - assumed 'TXT_ABOUT' in /home/carthage/public_html/bvb/include/footer.inc.php on line 24
+[07-Dec-2014 21:42:09 Europe/Berlin] PHP Warning:  include(lang/de-lang.php): failed to open stream: No such file or directory in /home/carthage/public_html/bvb/lang/decide.php on line 13
+[07-Dec-2014 21:42:09 Europe/Berlin] PHP Warning:  include(lang/de-lang.php): failed to open stream: No such file or directory in /home/carthage/public_html/bvb/lang/decide.php on line 13
+[07-Dec-2014 21:42:09 Europe/Berlin] PHP Warning:  include(): Failed opening 'lang/de-lang.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/carthage/public_html/bvb/lang/decide.php on line 13
+[07-Dec-2014 21:42:09 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_CONT - assumed 'TXT_CONT' in /home/carthage/public_html/bvb/admin/core.php on line 27
+[07-Dec-2014 21:42:09 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_ALL - assumed 'TXT_ALL' in /home/carthage/public_html/bvb/admin/core.php on line 29
+[07-Dec-2014 21:42:09 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_COUNT - assumed 'TXT_COUNT' in /home/carthage/public_html/bvb/admin/core.php on line 47
+[07-Dec-2014 21:42:09 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_FS - assumed 'TXT_FS' in /home/carthage/public_html/bvb/admin/core.php on line 56
+[07-Dec-2014 21:42:09 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_CITY - assumed 'TXT_CITY' in /home/carthage/public_html/bvb/admin/core.php on line 66
+[07-Dec-2014 21:42:09 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_PT - assumed 'TXT_PT' in /home/carthage/public_html/bvb/admin/core.php on line 76
+[07-Dec-2014 21:42:09 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_ALL - assumed 'TXT_ALL' in /home/carthage/public_html/bvb/admin/core.php on line 78
+[07-Dec-2014 21:42:09 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_OFFICEB - assumed 'TXT_OFFICEB' in /home/carthage/public_html/bvb/admin/core.php on line 79
+[07-Dec-2014 21:42:09 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_SHOP - assumed 'TXT_SHOP' in /home/carthage/public_html/bvb/admin/core.php on line 80
+[07-Dec-2014 21:42:09 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_MULTI - assumed 'TXT_MULTI' in /home/carthage/public_html/bvb/admin/core.php on line 82
+[07-Dec-2014 21:42:09 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_PORTOFF - assumed 'TXT_PORTOFF' in /home/carthage/public_html/bvb/admin/core.php on line 83
+[07-Dec-2014 21:42:09 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_PORTLIV - assumed 'TXT_PORTLIV' in /home/carthage/public_html/bvb/admin/core.php on line 84
+[07-Dec-2014 21:42:09 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_OFFPARC - assumed 'TXT_OFFPARC' in /home/carthage/public_html/bvb/admin/core.php on line 85
+[07-Dec-2014 21:42:09 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_LIVQUAR - assumed 'TXT_LIVQUAR' in /home/carthage/public_html/bvb/admin/core.php on line 86
+[07-Dec-2014 21:42:09 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_TI - assumed 'TXT_TI' in /home/carthage/public_html/bvb/admin/core.php on line 98
+[07-Dec-2014 21:42:09 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_CONTACT - assumed 'TXT_CONTACT' in /home/carthage/public_html/bvb/include/footer.inc.php on line 8
+[07-Dec-2014 21:42:09 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_ABOUT - assumed 'TXT_ABOUT' in /home/carthage/public_html/bvb/include/footer.inc.php on line 24
+[07-Dec-2014 21:43:12 Europe/Berlin] PHP Warning:  include(lang/de-lang.php): failed to open stream: No such file or directory in /home/carthage/public_html/bvb/lang/decide.php on line 13
+[07-Dec-2014 21:43:12 Europe/Berlin] PHP Warning:  include(lang/de-lang.php): failed to open stream: No such file or directory in /home/carthage/public_html/bvb/lang/decide.php on line 13
+[07-Dec-2014 21:43:12 Europe/Berlin] PHP Warning:  include(): Failed opening 'lang/de-lang.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/carthage/public_html/bvb/lang/decide.php on line 13
+[07-Dec-2014 21:43:12 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_CONT - assumed 'TXT_CONT' in /home/carthage/public_html/bvb/admin/core.php on line 27
+[07-Dec-2014 21:43:12 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_ALL - assumed 'TXT_ALL' in /home/carthage/public_html/bvb/admin/core.php on line 29
+[07-Dec-2014 21:43:12 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_COUNT - assumed 'TXT_COUNT' in /home/carthage/public_html/bvb/admin/core.php on line 47
+[07-Dec-2014 21:43:12 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_FS - assumed 'TXT_FS' in /home/carthage/public_html/bvb/admin/core.php on line 56
+[07-Dec-2014 21:43:12 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_CITY - assumed 'TXT_CITY' in /home/carthage/public_html/bvb/admin/core.php on line 66
+[07-Dec-2014 21:43:12 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_PT - assumed 'TXT_PT' in /home/carthage/public_html/bvb/admin/core.php on line 76
+[07-Dec-2014 21:43:12 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_ALL - assumed 'TXT_ALL' in /home/carthage/public_html/bvb/admin/core.php on line 78
+[07-Dec-2014 21:43:12 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_OFFICEB - assumed 'TXT_OFFICEB' in /home/carthage/public_html/bvb/admin/core.php on line 79
+[07-Dec-2014 21:43:12 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_SHOP - assumed 'TXT_SHOP' in /home/carthage/public_html/bvb/admin/core.php on line 80
+[07-Dec-2014 21:43:12 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_MULTI - assumed 'TXT_MULTI' in /home/carthage/public_html/bvb/admin/core.php on line 82
+[07-Dec-2014 21:43:12 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_PORTOFF - assumed 'TXT_PORTOFF' in /home/carthage/public_html/bvb/admin/core.php on line 83
+[07-Dec-2014 21:43:12 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_PORTLIV - assumed 'TXT_PORTLIV' in /home/carthage/public_html/bvb/admin/core.php on line 84
+[07-Dec-2014 21:43:12 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_OFFPARC - assumed 'TXT_OFFPARC' in /home/carthage/public_html/bvb/admin/core.php on line 85
+[07-Dec-2014 21:43:12 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_LIVQUAR - assumed 'TXT_LIVQUAR' in /home/carthage/public_html/bvb/admin/core.php on line 86
+[07-Dec-2014 21:43:12 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_TI - assumed 'TXT_TI' in /home/carthage/public_html/bvb/admin/core.php on line 98
+[07-Dec-2014 21:43:12 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_CONTACT - assumed 'TXT_CONTACT' in /home/carthage/public_html/bvb/include/footer.inc.php on line 8
+[07-Dec-2014 21:43:12 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_ABOUT - assumed 'TXT_ABOUT' in /home/carthage/public_html/bvb/include/footer.inc.php on line 24
+[07-Dec-2014 21:44:07 Europe/Berlin] PHP Warning:  include(lang/en-lang.php): failed to open stream: No such file or directory in /home/carthage/public_html/bvb/lang/decide.php on line 5
+[07-Dec-2014 21:44:07 Europe/Berlin] PHP Warning:  include(lang/en-lang.php): failed to open stream: No such file or directory in /home/carthage/public_html/bvb/lang/decide.php on line 5
+[07-Dec-2014 21:44:07 Europe/Berlin] PHP Warning:  include(): Failed opening 'lang/en-lang.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/carthage/public_html/bvb/lang/decide.php on line 5
+[07-Dec-2014 21:44:07 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_CONT - assumed 'TXT_CONT' in /home/carthage/public_html/bvb/admin/core.php on line 27
+[07-Dec-2014 21:44:07 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_ALL - assumed 'TXT_ALL' in /home/carthage/public_html/bvb/admin/core.php on line 29
+[07-Dec-2014 21:44:07 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_COUNT - assumed 'TXT_COUNT' in /home/carthage/public_html/bvb/admin/core.php on line 47
+[07-Dec-2014 21:44:07 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_FS - assumed 'TXT_FS' in /home/carthage/public_html/bvb/admin/core.php on line 56
+[07-Dec-2014 21:44:07 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_CITY - assumed 'TXT_CITY' in /home/carthage/public_html/bvb/admin/core.php on line 66
+[07-Dec-2014 21:44:07 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_PT - assumed 'TXT_PT' in /home/carthage/public_html/bvb/admin/core.php on line 76
+[07-Dec-2014 21:44:07 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_ALL - assumed 'TXT_ALL' in /home/carthage/public_html/bvb/admin/core.php on line 78
+[07-Dec-2014 21:44:07 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_OFFICEB - assumed 'TXT_OFFICEB' in /home/carthage/public_html/bvb/admin/core.php on line 79
+[07-Dec-2014 21:44:07 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_SHOP - assumed 'TXT_SHOP' in /home/carthage/public_html/bvb/admin/core.php on line 80
+[07-Dec-2014 21:44:07 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_MULTI - assumed 'TXT_MULTI' in /home/carthage/public_html/bvb/admin/core.php on line 82
+[07-Dec-2014 21:44:07 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_PORTOFF - assumed 'TXT_PORTOFF' in /home/carthage/public_html/bvb/admin/core.php on line 83
+[07-Dec-2014 21:44:07 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_PORTLIV - assumed 'TXT_PORTLIV' in /home/carthage/public_html/bvb/admin/core.php on line 84
+[07-Dec-2014 21:44:07 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_OFFPARC - assumed 'TXT_OFFPARC' in /home/carthage/public_html/bvb/admin/core.php on line 85
+[07-Dec-2014 21:44:07 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_LIVQUAR - assumed 'TXT_LIVQUAR' in /home/carthage/public_html/bvb/admin/core.php on line 86
+[07-Dec-2014 21:44:07 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_TI - assumed 'TXT_TI' in /home/carthage/public_html/bvb/admin/core.php on line 98
+[07-Dec-2014 21:44:07 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_CONTACT - assumed 'TXT_CONTACT' in /home/carthage/public_html/bvb/include/footer.inc.php on line 8
+[07-Dec-2014 21:44:07 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_ABOUT - assumed 'TXT_ABOUT' in /home/carthage/public_html/bvb/include/footer.inc.php on line 24
+[10-Dec-2014 00:39:39 Europe/Berlin] PHP Warning:  include(lang/de-lang.php): failed to open stream: No such file or directory in /home/carthage/public_html/bvb/lang/decide.php on line 2
+[10-Dec-2014 00:39:39 Europe/Berlin] PHP Warning:  include(lang/de-lang.php): failed to open stream: No such file or directory in /home/carthage/public_html/bvb/lang/decide.php on line 2
+[10-Dec-2014 00:39:39 Europe/Berlin] PHP Warning:  include(): Failed opening 'lang/de-lang.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/carthage/public_html/bvb/lang/decide.php on line 2
+[10-Dec-2014 00:39:39 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_CONT - assumed 'TXT_CONT' in /home/carthage/public_html/bvb/admin/core.php on line 27
+[10-Dec-2014 00:39:39 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_ALL - assumed 'TXT_ALL' in /home/carthage/public_html/bvb/admin/core.php on line 29
+[10-Dec-2014 00:39:39 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_COUNT - assumed 'TXT_COUNT' in /home/carthage/public_html/bvb/admin/core.php on line 47
+[10-Dec-2014 00:39:39 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_FS - assumed 'TXT_FS' in /home/carthage/public_html/bvb/admin/core.php on line 56
+[10-Dec-2014 00:39:39 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_CITY - assumed 'TXT_CITY' in /home/carthage/public_html/bvb/admin/core.php on line 66
+[10-Dec-2014 00:39:39 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_PT - assumed 'TXT_PT' in /home/carthage/public_html/bvb/admin/core.php on line 76
+[10-Dec-2014 00:39:39 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_ALL - assumed 'TXT_ALL' in /home/carthage/public_html/bvb/admin/core.php on line 78
+[10-Dec-2014 00:39:39 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_OFFICEB - assumed 'TXT_OFFICEB' in /home/carthage/public_html/bvb/admin/core.php on line 79
+[10-Dec-2014 00:39:39 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_SHOP - assumed 'TXT_SHOP' in /home/carthage/public_html/bvb/admin/core.php on line 80
+[10-Dec-2014 00:39:39 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_MULTI - assumed 'TXT_MULTI' in /home/carthage/public_html/bvb/admin/core.php on line 82
+[10-Dec-2014 00:39:39 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_PORTOFF - assumed 'TXT_PORTOFF' in /home/carthage/public_html/bvb/admin/core.php on line 83
+[10-Dec-2014 00:39:39 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_PORTLIV - assumed 'TXT_PORTLIV' in /home/carthage/public_html/bvb/admin/core.php on line 84
+[10-Dec-2014 00:39:39 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_OFFPARC - assumed 'TXT_OFFPARC' in /home/carthage/public_html/bvb/admin/core.php on line 85
+[10-Dec-2014 00:39:39 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_LIVQUAR - assumed 'TXT_LIVQUAR' in /home/carthage/public_html/bvb/admin/core.php on line 86
+[10-Dec-2014 00:39:39 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_TI - assumed 'TXT_TI' in /home/carthage/public_html/bvb/admin/core.php on line 98
+[10-Dec-2014 00:39:39 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_CONTACT - assumed 'TXT_CONTACT' in /home/carthage/public_html/bvb/include/footer.inc.php on line 8
+[10-Dec-2014 00:39:39 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_ABOUT - assumed 'TXT_ABOUT' in /home/carthage/public_html/bvb/include/footer.inc.php on line 24
+[10-Dec-2014 00:56:27 Europe/Berlin] PHP Warning:  include(lang/de-lang.php): failed to open stream: No such file or directory in /home/carthage/public_html/bvb/lang/decide.php on line 2
+[10-Dec-2014 00:56:27 Europe/Berlin] PHP Warning:  include(lang/de-lang.php): failed to open stream: No such file or directory in /home/carthage/public_html/bvb/lang/decide.php on line 2
+[10-Dec-2014 00:56:27 Europe/Berlin] PHP Warning:  include(): Failed opening 'lang/de-lang.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/carthage/public_html/bvb/lang/decide.php on line 2
+[10-Dec-2014 00:56:27 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_ALL - assumed 'TXT_ALL' in /home/carthage/public_html/bvb/admin/core.php on line 29
+[10-Dec-2014 00:56:27 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_CONTACT - assumed 'TXT_CONTACT' in /home/carthage/public_html/bvb/include/footer.inc.php on line 8
+[10-Dec-2014 00:56:27 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_ABOUT - assumed 'TXT_ABOUT' in /home/carthage/public_html/bvb/include/footer.inc.php on line 24
+[10-Dec-2014 00:58:18 Europe/Berlin] PHP Warning:  include(lang/de-lang.php): failed to open stream: No such file or directory in /home/carthage/public_html/bvb/lang/decide.php on line 2
+[10-Dec-2014 00:58:18 Europe/Berlin] PHP Warning:  include(lang/de-lang.php): failed to open stream: No such file or directory in /home/carthage/public_html/bvb/lang/decide.php on line 2
+[10-Dec-2014 00:58:18 Europe/Berlin] PHP Warning:  include(): Failed opening 'lang/de-lang.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/carthage/public_html/bvb/lang/decide.php on line 2
+[10-Dec-2014 00:58:18 Europe/Berlin] PHP Notice:  Undefined variable: lang in /home/carthage/public_html/bvb/admin/core.php on line 21
+[10-Dec-2014 00:58:18 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_CONTACT - assumed 'TXT_CONTACT' in /home/carthage/public_html/bvb/include/footer.inc.php on line 8
+[10-Dec-2014 00:58:18 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_ABOUT - assumed 'TXT_ABOUT' in /home/carthage/public_html/bvb/include/footer.inc.php on line 24
+[10-Dec-2014 01:00:41 Europe/Berlin] PHP Warning:  include(lang/de-lang.php): failed to open stream: No such file or directory in /home/carthage/public_html/bvb/lang/decide.php on line 2
+[10-Dec-2014 01:00:41 Europe/Berlin] PHP Warning:  include(lang/de-lang.php): failed to open stream: No such file or directory in /home/carthage/public_html/bvb/lang/decide.php on line 2
+[10-Dec-2014 01:00:41 Europe/Berlin] PHP Warning:  include(): Failed opening 'lang/de-lang.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/carthage/public_html/bvb/lang/decide.php on line 2
+[10-Dec-2014 01:00:41 Europe/Berlin] PHP Notice:  Undefined variable: lang in /home/carthage/public_html/bvb/admin/core.php on line 21
+[10-Dec-2014 01:00:41 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_CONTACT - assumed 'TXT_CONTACT' in /home/carthage/public_html/bvb/include/footer.inc.php on line 8
+[10-Dec-2014 01:00:41 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_ABOUT - assumed 'TXT_ABOUT' in /home/carthage/public_html/bvb/include/footer.inc.php on line 24
+[10-Dec-2014 01:04:00 Europe/Berlin] PHP Warning:  include(lang/decide.php): failed to open stream: No such file or directory in /home/carthage/public_html/bvb/admin/core.php on line 8
+[10-Dec-2014 01:04:00 Europe/Berlin] PHP Warning:  include(lang/decide.php): failed to open stream: No such file or directory in /home/carthage/public_html/bvb/admin/core.php on line 8
+[10-Dec-2014 01:04:00 Europe/Berlin] PHP Warning:  include(): Failed opening 'lang/decide.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/carthage/public_html/bvb/admin/core.php on line 8
+[10-Dec-2014 01:04:00 Europe/Berlin] PHP Notice:  Undefined variable: lang in /home/carthage/public_html/bvb/admin/core.php on line 76
+[10-Dec-2014 01:04:00 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_CONTACT - assumed 'TXT_CONTACT' in /home/carthage/public_html/bvb/include/footer.inc.php on line 8
+[10-Dec-2014 01:04:00 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_ABOUT - assumed 'TXT_ABOUT' in /home/carthage/public_html/bvb/include/footer.inc.php on line 24
+[10-Dec-2014 01:06:39 Europe/Berlin] PHP Warning:  include(lang/decide.php): failed to open stream: No such file or directory in /home/carthage/public_html/bvb/admin/core.php on line 8
+[10-Dec-2014 01:06:39 Europe/Berlin] PHP Warning:  include(lang/decide.php): failed to open stream: No such file or directory in /home/carthage/public_html/bvb/admin/core.php on line 8
+[10-Dec-2014 01:06:39 Europe/Berlin] PHP Warning:  include(): Failed opening 'lang/decide.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/carthage/public_html/bvb/admin/core.php on line 8
+[10-Dec-2014 01:06:39 Europe/Berlin] PHP Notice:  Undefined variable: lang in /home/carthage/public_html/bvb/admin/core.php on line 76
+[10-Dec-2014 01:06:39 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_CONTACT - assumed 'TXT_CONTACT' in /home/carthage/public_html/bvb/include/footer.inc.php on line 8
+[10-Dec-2014 01:06:39 Europe/Berlin] PHP Notice:  Use of undefined constant TXT_ABOUT - assumed 'TXT_ABOUT' in /home/carthage/public_html/bvb/include/footer.inc.php on line 24
+[10-Dec-2014 01:11:03 Europe/Berlin] PHP Warning:  include(lang/decide.php): failed to open stream: No such file or directory in /home/carthage/public_html/bvb/admin/core.php on line 8
+[10-Dec-2014 01:11:03 Europe/Berlin] PHP Warning:  include(lang/decide.php): failed to open stream: No such file or directory in /home/carthage/public_html/bvb/admin/core.php on line 8
+[10-Dec-2014 01:11:03 Europe/Berlin] PHP Warning:  include(): Failed opening 'lang/decide.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/carthage/public_html/bvb/admin/core.php on line 8
+[10-Dec-2014 01:11:03 Europe/Berlin] PHP Notice:  Undefined variable: lang in /home/carthage/public_html/bvb/admin/core.php on line 76
+[10-Dec-2014 01:12:06 Europe/Berlin] PHP Warning:  include(lang/decide.php): failed to open stream: No such file or directory in /home/carthage/public_html/bvb/admin/core.php on line 8
+[10-Dec-2014 01:12:06 Europe/Berlin] PHP Warning:  include(lang/decide.php): failed to open stream: No such file or directory in /home/carthage/public_html/bvb/admin/core.php on line 8
+[10-Dec-2014 01:12:06 Europe/Berlin] PHP Warning:  include(): Failed opening 'lang/decide.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/carthage/public_html/bvb/admin/core.php on line 8
+[10-Dec-2014 01:12:06 Europe/Berlin] PHP Notice:  Undefined variable: lang in /home/carthage/public_html/bvb/admin/core.php on line 76
+[10-Dec-2014 18:42:19 Europe/Berlin] PHP Notice:  Undefined variable: lang in /home/carthage/public_html/bvb/admin/core.php on line 76
+[10-Dec-2014 18:42:24 Europe/Berlin] PHP Notice:  Undefined variable: lang in /home/carthage/public_html/bvb/admin/shop.php on line 76
+[10-Dec-2014 19:21:02 Europe/Berlin] PHP Notice:  Undefined variable: lang in /home/carthage/public_html/bvb/admin/hotel.php on line 76
+[10-Dec-2014 19:21:26 Europe/Berlin] PHP Notice:  Undefined variable: lang in /home/carthage/public_html/bvb/admin/core.php on line 76
+[10-Dec-2014 19:21:32 Europe/Berlin] PHP Notice:  Undefined variable: lang in /home/carthage/public_html/bvb/admin/shop.php on line 76
+[10-Dec-2014 19:21:38 Europe/Berlin] PHP Notice:  Undefined variable: lang in /home/carthage/public_html/bvb/admin/office.php on line 76
+[10-Dec-2014 19:21:44 Europe/Berlin] PHP Notice:  Undefined variable: lang in /home/carthage/public_html/bvb/admin/hotel.php on line 76
+[10-Dec-2014 19:26:11 Europe/Berlin] PHP Notice:  Undefined variable: lang in /home/carthage/public_html/bvb/admin/core.php on line 76
+[10-Dec-2014 20:53:17 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/carthage/public_html/bvb/admin/shop.php on line 153
+[10-Dec-2014 20:53:44 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/carthage/public_html/bvb/admin/shop.php on line 153
+[10-Dec-2014 20:53:57 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/carthage/public_html/bvb/admin/shop.php on line 153
+[10-Dec-2014 20:54:45 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/carthage/public_html/bvb/admin/shop.php on line 155
+[10-Dec-2014 20:55:14 Europe/Berlin] PHP Parse error:  syntax error, unexpected 're' (T_STRING), expecting ',' or ';' in /home/carthage/public_html/bvb/admin/shop.php on line 152
+[10-Dec-2014 20:55:15 Europe/Berlin] PHP Parse error:  syntax error, unexpected 're' (T_STRING), expecting ',' or ';' in /home/carthage/public_html/bvb/admin/shop.php on line 152
+[10-Dec-2014 20:55:16 Europe/Berlin] PHP Parse error:  syntax error, unexpected 're' (T_STRING), expecting ',' or ';' in /home/carthage/public_html/bvb/admin/shop.php on line 152
+[10-Dec-2014 20:55:21 Europe/Berlin] PHP Notice:  Undefined variable: lang in /home/carthage/public_html/bvb/admin/office.php on line 76
+[10-Dec-2014 20:55:24 Europe/Berlin] PHP Parse error:  syntax error, unexpected 're' (T_STRING), expecting ',' or ';' in /home/carthage/public_html/bvb/admin/shop.php on line 152
+[10-Dec-2014 21:42:31 Europe/Berlin] PHP Notice:  Undefined variable: lang in /home/carthage/public_html/bvb/admin/hotel.php on line 76
+[10-Dec-2014 21:42:33 Europe/Berlin] PHP Notice:  Undefined variable: lang in /home/carthage/public_html/bvb/admin/office.php on line 76
+[10-Dec-2014 21:42:34 Europe/Berlin] PHP Notice:  Undefined variable: lang in /home/carthage/public_html/bvb/admin/core.php on line 76
+[10-Dec-2014 23:14:21 Europe/Berlin] PHP Notice:  Undefined index: user in /home/carthage/public_html/bvb/admin/include/header.inc.php on line 3
+[10-Dec-2014 23:14:21 Europe/Berlin] PHP Notice:  Undefined index: user in /home/carthage/public_html/bvb/admin/include/header.inc.php on line 4
+[10-Dec-2014 23:14:21 Europe/Berlin] PHP Warning:  include(fonctions.php): failed to open stream: No such file or directory in /home/carthage/public_html/bvb/admin/include/header.inc.php on line 6
+[10-Dec-2014 23:14:21 Europe/Berlin] PHP Warning:  include(fonctions.php): failed to open stream: No such file or directory in /home/carthage/public_html/bvb/admin/include/header.inc.php on line 6
+[10-Dec-2014 23:14:21 Europe/Berlin] PHP Warning:  include(): Failed opening 'fonctions.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/carthage/public_html/bvb/admin/include/header.inc.php on line 6
+[10-Dec-2014 23:14:21 Europe/Berlin] PHP Notice:  Undefined index: user in /home/carthage/public_html/bvb/admin/include/header.inc.php on line 70
+[10-Dec-2014 23:14:21 Europe/Berlin] PHP Notice:  Undefined index: user in /home/carthage/public_html/bvb/admin/include/header.inc.php on line 70
+[10-Dec-2014 23:16:02 Europe/Berlin] PHP Notice:  Undefined variable: lang in /home/carthage/public_html/bvb/admin/hotel.php on line 76
+[10-Dec-2014 23:31:25 Europe/Berlin] PHP Notice:  Undefined index: user in /home/carthage/public_html/bvb/admin/include/header.inc.php on line 3
+[10-Dec-2014 23:31:25 Europe/Berlin] PHP Notice:  Undefined index: user in /home/carthage/public_html/bvb/admin/include/header.inc.php on line 4
+[10-Dec-2014 23:31:25 Europe/Berlin] PHP Notice:  Undefined index: user in /home/carthage/public_html/bvb/admin/include/header.inc.php on line 70
+[10-Dec-2014 23:31:25 Europe/Berlin] PHP Notice:  Undefined index: user in /home/carthage/public_html/bvb/admin/include/header.inc.php on line 70
+[10-Dec-2014 23:37:27 Europe/Berlin] PHP Notice:  Undefined variable: lang in /home/carthage/public_html/bvb/admin/hotel.php on line 76
+[10-Dec-2014 23:42:23 Europe/Berlin] PHP Notice:  Undefined variable: lang in /home/carthage/public_html/bvb/admin/matiere.php on line 19
+[10-Dec-2014 23:42:23 Europe/Berlin] PHP Notice:  Undefined variable: link in /home/carthage/public_html/bvb/admin/matiere.php on line 26
+[10-Dec-2014 23:42:23 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/carthage/public_html/bvb/admin/matiere.php on line 26
+[10-Dec-2014 23:42:23 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/carthage/public_html/bvb/admin/matiere.php on line 27
+[10-Dec-2014 23:45:31 Europe/Berlin] PHP Warning:  require_once(include/connecxion.php): failed to open stream: No such file or directory in /home/carthage/public_html/bvb/admin/include/header.inc.php on line 2
+[10-Dec-2014 23:45:31 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required 'include/connecxion.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/carthage/public_html/bvb/admin/include/header.inc.php on line 2
+[10-Dec-2014 23:45:35 Europe/Berlin] PHP Warning:  require_once(include/connecxion.php): failed to open stream: No such file or directory in /home/carthage/public_html/bvb/admin/include/header.inc.php on line 2
+[10-Dec-2014 23:45:35 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required 'include/connecxion.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/carthage/public_html/bvb/admin/include/header.inc.php on line 2
+[10-Dec-2014 23:45:36 Europe/Berlin] PHP Warning:  require_once(include/connecxion.php): failed to open stream: No such file or directory in /home/carthage/public_html/bvb/admin/include/header.inc.php on line 2
+[10-Dec-2014 23:45:36 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required 'include/connecxion.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/carthage/public_html/bvb/admin/include/header.inc.php on line 2
+[10-Dec-2014 23:45:36 Europe/Berlin] PHP Warning:  require_once(include/connecxion.php): failed to open stream: No such file or directory in /home/carthage/public_html/bvb/admin/include/header.inc.php on line 2
+[10-Dec-2014 23:45:36 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required 'include/connecxion.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/carthage/public_html/bvb/admin/include/header.inc.php on line 2
+[10-Dec-2014 23:45:45 Europe/Berlin] PHP Notice:  Undefined variable: lang in /home/carthage/public_html/bvb/admin/matiere.php on line 19
+[10-Dec-2014 23:50:33 Europe/Berlin] PHP Notice:  Undefined variable: lang in /home/carthage/public_html/bvb/admin/matiere.php on line 19
+[11-Dec-2014 01:08:52 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carthage/public_html/bvb/admin/index.php on line 22
+[11-Dec-2014 01:14:01 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:14:01 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:14:01 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:14:01 Europe/Berlin] PHP Notice:  Undefined index: city.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:14:01 Europe/Berlin] PHP Notice:  Undefined index: property.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:14:05 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:14:05 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:14:05 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:14:05 Europe/Berlin] PHP Notice:  Undefined index: city.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:14:05 Europe/Berlin] PHP Notice:  Undefined index: property.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:14:06 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:14:06 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:14:06 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:14:06 Europe/Berlin] PHP Notice:  Undefined index: city.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:14:06 Europe/Berlin] PHP Notice:  Undefined index: property.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:14:07 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:14:07 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:14:07 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:14:07 Europe/Berlin] PHP Notice:  Undefined index: city.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:14:07 Europe/Berlin] PHP Notice:  Undefined index: property.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:14:07 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:14:07 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:14:07 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:14:07 Europe/Berlin] PHP Notice:  Undefined index: city.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:14:07 Europe/Berlin] PHP Notice:  Undefined index: property.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:14:44 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:14:44 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:14:44 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:14:44 Europe/Berlin] PHP Notice:  Undefined index: city.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:14:44 Europe/Berlin] PHP Notice:  Undefined index: property.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:14:44 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:14:44 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:14:44 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:14:44 Europe/Berlin] PHP Notice:  Undefined index: city.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:14:44 Europe/Berlin] PHP Notice:  Undefined index: property.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:14:44 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:14:44 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:14:44 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:14:44 Europe/Berlin] PHP Notice:  Undefined index: city.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:14:44 Europe/Berlin] PHP Notice:  Undefined index: property.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:14:44 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:14:44 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:14:44 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:14:44 Europe/Berlin] PHP Notice:  Undefined index: city.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:14:44 Europe/Berlin] PHP Notice:  Undefined index: property.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:14:44 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:14:44 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:14:44 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:14:44 Europe/Berlin] PHP Notice:  Undefined index: city.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:14:44 Europe/Berlin] PHP Notice:  Undefined index: property.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:14:44 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:14:44 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:14:44 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:14:44 Europe/Berlin] PHP Notice:  Undefined index: city.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:14:44 Europe/Berlin] PHP Notice:  Undefined index: property.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:45 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:45 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:45 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:45 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:45 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:45 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:45 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:45 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:45 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:45 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:45 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:45 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:45 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:45 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:45 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:45 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:45 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:45 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:45 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:45 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:45 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:45 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:45 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:45 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:48 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:48 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:48 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:48 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:48 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:48 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:48 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:48 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:48 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:48 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:48 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:48 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:48 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:48 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:48 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:48 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:48 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:48 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:48 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:48 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:48 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:48 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:48 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:48 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:52 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:52 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:52 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:52 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:52 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:52 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:52 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:52 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:52 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:52 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:52 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:52 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:52 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:52 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:52 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:52 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:52 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:52 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:52 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:52 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:52 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:52 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:52 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:17:52 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:24:54 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:24:54 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:24:54 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:24:54 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:24:54 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:24:54 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:24:54 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:24:54 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:24:54 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:24:54 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:24:54 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:24:54 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:24:54 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:24:54 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:24:54 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:24:54 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:24:54 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:24:54 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:24:54 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:24:54 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:24:54 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:24:54 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:24:54 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:24:54 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:25:20 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:25:20 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:25:20 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:25:20 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:25:20 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:25:20 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:25:20 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:25:20 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:25:20 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:25:20 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:25:20 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:25:20 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:25:20 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:25:20 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:25:20 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:25:20 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:25:20 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:25:20 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:25:43 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:25:43 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:25:43 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:25:43 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:25:43 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:25:43 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:25:43 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:25:43 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:25:43 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:25:43 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:25:43 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:25:43 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:31:06 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carthage/public_html/bvb/admin/index.php on line 22
+[11-Dec-2014 01:31:09 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carthage/public_html/bvb/admin/index.php on line 22
+[11-Dec-2014 01:31:35 Europe/Berlin] PHP Notice:  Undefined index: s.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:31:35 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:31:35 Europe/Berlin] PHP Notice:  Undefined index: s.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:31:35 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:31:35 Europe/Berlin] PHP Notice:  Undefined index: s.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:31:35 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:31:35 Europe/Berlin] PHP Notice:  Undefined index: s.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:31:35 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:31:35 Europe/Berlin] PHP Notice:  Undefined index: s.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:31:35 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:31:35 Europe/Berlin] PHP Notice:  Undefined index: s.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:31:35 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:31:39 Europe/Berlin] PHP Notice:  Undefined index: s.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:31:39 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:31:39 Europe/Berlin] PHP Notice:  Undefined index: s.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:31:39 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:31:39 Europe/Berlin] PHP Notice:  Undefined index: s.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:31:39 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:31:39 Europe/Berlin] PHP Notice:  Undefined index: s.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:31:39 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:31:39 Europe/Berlin] PHP Notice:  Undefined index: s.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:31:39 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:31:39 Europe/Berlin] PHP Notice:  Undefined index: s.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:31:39 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:33:13 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:33:13 Europe/Berlin] PHP Notice:  Undefined index: s.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:33:13 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:33:13 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:33:13 Europe/Berlin] PHP Notice:  Undefined index: s.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:33:13 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:33:13 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:33:13 Europe/Berlin] PHP Notice:  Undefined index: s.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:33:13 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:33:13 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:33:13 Europe/Berlin] PHP Notice:  Undefined index: s.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:33:13 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:33:13 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:33:13 Europe/Berlin] PHP Notice:  Undefined index: s.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:33:13 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:33:13 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:33:13 Europe/Berlin] PHP Notice:  Undefined index: s.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 01:33:13 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 12:55:17 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 12:55:17 Europe/Berlin] PHP Notice:  Undefined index: s.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 12:55:17 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 12:55:17 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 12:55:17 Europe/Berlin] PHP Notice:  Undefined index: s.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 12:55:17 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 12:55:17 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 12:55:17 Europe/Berlin] PHP Notice:  Undefined index: s.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 12:55:17 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 12:55:17 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 12:55:17 Europe/Berlin] PHP Notice:  Undefined index: s.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 12:55:17 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 12:55:17 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 12:55:17 Europe/Berlin] PHP Notice:  Undefined index: s.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 12:55:17 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 12:55:17 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 12:55:17 Europe/Berlin] PHP Notice:  Undefined index: s.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 12:55:17 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 12:55:17 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 12:55:17 Europe/Berlin] PHP Notice:  Undefined index: s.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 12:55:17 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 12:55:17 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 12:55:17 Europe/Berlin] PHP Notice:  Undefined index: s.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 12:55:17 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 12:55:17 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 12:55:17 Europe/Berlin] PHP Notice:  Undefined index: s.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 12:55:17 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 12:55:17 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 12:55:17 Europe/Berlin] PHP Notice:  Undefined index: s.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 12:55:17 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 12:55:17 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 12:55:17 Europe/Berlin] PHP Notice:  Undefined index: s.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 12:55:17 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 12:55:17 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 12:55:17 Europe/Berlin] PHP Notice:  Undefined index: s.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 12:55:17 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:01:23 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carthage/public_html/bvb/admin/index.php on line 22
+[11-Dec-2014 13:01:27 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carthage/public_html/bvb/admin/index.php on line 22
+[11-Dec-2014 13:01:41 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carthage/public_html/bvb/admin/index.php on line 22
+[11-Dec-2014 13:01:47 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carthage/public_html/bvb/admin/index.php on line 22
+[11-Dec-2014 13:02:23 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carthage/public_html/bvb/admin/index.php on line 22
+[11-Dec-2014 13:02:51 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:02:51 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:02:51 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:02:51 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:02:51 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:02:51 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:02:51 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:02:51 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:02:51 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:02:51 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:02:51 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:02:51 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:02:51 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:02:51 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:02:51 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:02:51 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:02:51 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:02:51 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:03:07 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:03:07 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:03:07 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:03:07 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:03:07 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:03:07 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:03:07 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:03:07 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:03:07 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:03:07 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:03:07 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:03:07 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:03:07 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:03:07 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:03:07 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:03:07 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:03:07 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:03:07 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:03:11 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:03:11 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:03:11 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:03:11 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:03:11 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:03:11 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:03:11 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:03:11 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:03:11 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:03:11 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:03:11 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:03:11 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:03:11 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:03:11 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:03:11 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:03:11 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:03:11 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:03:11 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:21:24 Europe/Berlin] PHP Notice:  Undefined offset: 1 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:21:24 Europe/Berlin] PHP Notice:  Undefined offset: 2 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:21:24 Europe/Berlin] PHP Notice:  Undefined offset: 3 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:21:24 Europe/Berlin] PHP Notice:  Undefined offset: 4 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:21:24 Europe/Berlin] PHP Notice:  Undefined offset: 5 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:21:24 Europe/Berlin] PHP Notice:  Undefined offset: 6 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:21:24 Europe/Berlin] PHP Notice:  Undefined offset: 7 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:21:24 Europe/Berlin] PHP Notice:  Undefined offset: 8 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:21:24 Europe/Berlin] PHP Notice:  Undefined offset: 1 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:21:24 Europe/Berlin] PHP Notice:  Undefined offset: 2 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:21:24 Europe/Berlin] PHP Notice:  Undefined offset: 3 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:21:24 Europe/Berlin] PHP Notice:  Undefined offset: 4 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:21:24 Europe/Berlin] PHP Notice:  Undefined offset: 5 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:21:24 Europe/Berlin] PHP Notice:  Undefined offset: 6 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:21:24 Europe/Berlin] PHP Notice:  Undefined offset: 7 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:21:24 Europe/Berlin] PHP Notice:  Undefined offset: 8 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:21:24 Europe/Berlin] PHP Notice:  Undefined offset: 1 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:21:24 Europe/Berlin] PHP Notice:  Undefined offset: 2 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:21:24 Europe/Berlin] PHP Notice:  Undefined offset: 3 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:21:24 Europe/Berlin] PHP Notice:  Undefined offset: 4 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:21:24 Europe/Berlin] PHP Notice:  Undefined offset: 5 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:21:24 Europe/Berlin] PHP Notice:  Undefined offset: 6 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:21:24 Europe/Berlin] PHP Notice:  Undefined offset: 7 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:21:24 Europe/Berlin] PHP Notice:  Undefined offset: 8 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:21:24 Europe/Berlin] PHP Notice:  Undefined offset: 1 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:21:24 Europe/Berlin] PHP Notice:  Undefined offset: 2 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:21:24 Europe/Berlin] PHP Notice:  Undefined offset: 3 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:21:24 Europe/Berlin] PHP Notice:  Undefined offset: 4 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:21:24 Europe/Berlin] PHP Notice:  Undefined offset: 5 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:21:24 Europe/Berlin] PHP Notice:  Undefined offset: 6 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:21:24 Europe/Berlin] PHP Notice:  Undefined offset: 7 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:21:24 Europe/Berlin] PHP Notice:  Undefined offset: 8 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:21:24 Europe/Berlin] PHP Notice:  Undefined offset: 1 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:21:24 Europe/Berlin] PHP Notice:  Undefined offset: 2 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:21:24 Europe/Berlin] PHP Notice:  Undefined offset: 3 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:21:24 Europe/Berlin] PHP Notice:  Undefined offset: 4 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:21:24 Europe/Berlin] PHP Notice:  Undefined offset: 5 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:21:24 Europe/Berlin] PHP Notice:  Undefined offset: 6 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:21:24 Europe/Berlin] PHP Notice:  Undefined offset: 7 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:21:24 Europe/Berlin] PHP Notice:  Undefined offset: 8 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:21:24 Europe/Berlin] PHP Notice:  Undefined offset: 1 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:21:24 Europe/Berlin] PHP Notice:  Undefined offset: 2 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:21:24 Europe/Berlin] PHP Notice:  Undefined offset: 3 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:21:24 Europe/Berlin] PHP Notice:  Undefined offset: 4 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:21:24 Europe/Berlin] PHP Notice:  Undefined offset: 5 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:21:24 Europe/Berlin] PHP Notice:  Undefined offset: 6 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:21:24 Europe/Berlin] PHP Notice:  Undefined offset: 7 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:21:24 Europe/Berlin] PHP Notice:  Undefined offset: 8 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:22:20 Europe/Berlin] PHP Notice:  Undefined index: EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:22:20 Europe/Berlin] PHP Notice:  Undefined index: EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:22:20 Europe/Berlin] PHP Notice:  Undefined index: EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:22:20 Europe/Berlin] PHP Notice:  Undefined index: EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:22:20 Europe/Berlin] PHP Notice:  Undefined index: EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:22:20 Europe/Berlin] PHP Notice:  Undefined index: EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:22:40 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:22:40 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:22:40 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:22:40 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:22:40 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:22:40 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:22:58 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:22:58 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:22:58 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:22:58 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:22:58 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:22:58 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:23:00 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:23:00 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:23:00 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:23:00 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:23:00 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:23:00 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:24:03 Europe/Berlin] PHP Notice:  Undefined offset: 1 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:24:03 Europe/Berlin] PHP Notice:  Undefined offset: 2 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:24:03 Europe/Berlin] PHP Notice:  Undefined offset: 3 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:24:03 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:24:03 Europe/Berlin] PHP Notice:  Undefined offset: 5 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:24:03 Europe/Berlin] PHP Notice:  Undefined offset: 6 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:24:03 Europe/Berlin] PHP Notice:  Undefined offset: 7 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:24:03 Europe/Berlin] PHP Notice:  Undefined offset: 8 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:24:03 Europe/Berlin] PHP Notice:  Undefined offset: 1 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:24:03 Europe/Berlin] PHP Notice:  Undefined offset: 2 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:24:03 Europe/Berlin] PHP Notice:  Undefined offset: 3 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:24:03 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:24:03 Europe/Berlin] PHP Notice:  Undefined offset: 5 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:24:03 Europe/Berlin] PHP Notice:  Undefined offset: 6 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:24:03 Europe/Berlin] PHP Notice:  Undefined offset: 7 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:24:03 Europe/Berlin] PHP Notice:  Undefined offset: 8 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:24:03 Europe/Berlin] PHP Notice:  Undefined offset: 1 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:24:03 Europe/Berlin] PHP Notice:  Undefined offset: 2 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:24:03 Europe/Berlin] PHP Notice:  Undefined offset: 3 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:24:03 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:24:03 Europe/Berlin] PHP Notice:  Undefined offset: 5 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:24:03 Europe/Berlin] PHP Notice:  Undefined offset: 6 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:24:03 Europe/Berlin] PHP Notice:  Undefined offset: 7 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:24:03 Europe/Berlin] PHP Notice:  Undefined offset: 8 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:24:03 Europe/Berlin] PHP Notice:  Undefined offset: 1 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:24:03 Europe/Berlin] PHP Notice:  Undefined offset: 2 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:24:03 Europe/Berlin] PHP Notice:  Undefined offset: 3 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:24:03 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:24:03 Europe/Berlin] PHP Notice:  Undefined offset: 5 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:24:03 Europe/Berlin] PHP Notice:  Undefined offset: 6 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:24:03 Europe/Berlin] PHP Notice:  Undefined offset: 7 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:24:03 Europe/Berlin] PHP Notice:  Undefined offset: 8 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:24:03 Europe/Berlin] PHP Notice:  Undefined offset: 1 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:24:03 Europe/Berlin] PHP Notice:  Undefined offset: 2 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:24:03 Europe/Berlin] PHP Notice:  Undefined offset: 3 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:24:03 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:24:03 Europe/Berlin] PHP Notice:  Undefined offset: 5 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:24:03 Europe/Berlin] PHP Notice:  Undefined offset: 6 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:24:03 Europe/Berlin] PHP Notice:  Undefined offset: 7 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:24:03 Europe/Berlin] PHP Notice:  Undefined offset: 8 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:24:03 Europe/Berlin] PHP Notice:  Undefined offset: 1 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:24:03 Europe/Berlin] PHP Notice:  Undefined offset: 2 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:24:03 Europe/Berlin] PHP Notice:  Undefined offset: 3 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:24:03 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:24:03 Europe/Berlin] PHP Notice:  Undefined offset: 5 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:24:03 Europe/Berlin] PHP Notice:  Undefined offset: 6 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:24:03 Europe/Berlin] PHP Notice:  Undefined offset: 7 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:24:03 Europe/Berlin] PHP Notice:  Undefined offset: 8 in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:26:29 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:26:29 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:26:29 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:26:29 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:26:29 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:26:29 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:26:29 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:26:29 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:26:29 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:26:29 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:26:29 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:26:29 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:26:29 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:26:29 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:26:29 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:26:29 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:26:29 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:26:29 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:28:23 Europe/Berlin] PHP Notice:  Undefined index: job.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:28:23 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:28:23 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:28:23 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:28:23 Europe/Berlin] PHP Notice:  Undefined index: job.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:28:23 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:28:23 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:28:23 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:28:23 Europe/Berlin] PHP Notice:  Undefined index: job.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:28:23 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:28:23 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:28:23 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:28:23 Europe/Berlin] PHP Notice:  Undefined index: job.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:28:23 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:28:23 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:28:23 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:28:23 Europe/Berlin] PHP Notice:  Undefined index: job.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:28:23 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:28:23 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:28:23 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:28:23 Europe/Berlin] PHP Notice:  Undefined index: job.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:28:23 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:28:23 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:28:23 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:30:28 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:30:28 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:30:28 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:30:28 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:30:28 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:30:28 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:30:28 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:30:28 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:30:28 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:30:28 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:30:28 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:30:28 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:30:28 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:30:28 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:30:28 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:30:28 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:30:28 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:30:28 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:30:28 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:30:28 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:30:28 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:30:28 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:30:28 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:30:28 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:30:31 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:30:31 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:30:31 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:30:31 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:30:31 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:30:31 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:30:31 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:30:31 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:30:31 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:30:31 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:30:31 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:30:31 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:30:31 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:30:31 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:30:31 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:30:31 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:30:31 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:30:31 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:30:31 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:30:31 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:30:31 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:30:31 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:30:31 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:30:31 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:31:09 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carthage/public_html/bvb/admin/index.php on line 22
+[11-Dec-2014 13:31:12 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/carthage/public_html/bvb/admin/index.php on line 22
+[11-Dec-2014 13:31:52 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:31:52 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:31:52 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:31:52 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:31:52 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:31:52 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:31:52 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:31:52 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:31:52 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:31:52 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:31:52 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:31:52 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:31:52 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:31:52 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:31:52 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:31:52 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:31:52 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:31:52 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:31:52 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:31:52 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:31:52 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:31:52 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:31:52 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:31:52 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:33:58 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:33:58 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:33:58 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:33:58 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:33:58 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:33:58 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:33:58 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:33:58 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:33:58 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:33:58 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:33:58 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:33:58 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:33:58 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:33:58 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:33:58 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:33:58 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:33:58 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:33:58 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:33:58 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:33:58 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:33:58 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:33:58 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:33:58 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:33:58 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:34:01 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:34:01 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:34:01 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:34:01 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:34:01 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:34:01 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:34:01 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:34:01 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:34:01 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:34:01 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:34:01 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:34:01 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:34:01 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:34:01 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:34:01 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:34:01 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:34:01 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:34:01 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:34:01 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:34:01 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:34:01 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:34:01 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:34:01 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:34:01 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:36:01 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:36:01 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:36:01 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:36:01 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:36:01 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:36:01 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:36:01 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:36:01 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:36:01 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:36:01 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:36:01 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:36:01 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:36:01 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:36:01 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:36:01 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:36:01 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:36:01 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:36:01 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:36:01 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:36:01 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:36:01 Europe/Berlin] PHP Notice:  Undefined index: continent.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:36:01 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:36:01 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:36:01 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:38:02 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:38:02 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:38:02 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:38:02 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:38:02 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:38:02 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:38:02 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:38:02 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:38:02 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:38:02 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:38:02 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:38:02 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:38:02 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:38:02 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:38:02 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:38:02 Europe/Berlin] PHP Notice:  Undefined index: country.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:38:02 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:38:02 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:38:24 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:38:24 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:38:24 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:38:24 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:38:24 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:38:24 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:38:24 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:38:24 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:38:24 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:38:24 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:38:24 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:38:24 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:39:08 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:39:08 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:39:08 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:39:08 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:39:08 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:39:08 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:39:08 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:39:08 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:39:08 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:39:08 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:39:08 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:39:08 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:39:34 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:39:34 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:39:34 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:39:34 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:39:34 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:39:34 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:39:34 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:39:34 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:39:34 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:39:34 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:39:34 Europe/Berlin] PHP Notice:  Undefined index: state.EnName in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:39:34 Europe/Berlin] PHP Notice:  Undefined index: city.Name in /home/carthage/public_html/bvb/admin/index.php on line 23
+[11-Dec-2014 13:52:49 Europe/Berlin] PHP Notice:  Undefined variable: lang in /home/carthage/public_html/bvb/admin/core.php on line 76
+[11-Dec-2014 13:53:40 Europe/Berlin] PHP Notice:  Undefined variable: lang in /home/carthage/public_html/bvb/admin/core.php on line 76
